@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "tm4c123gh6pm.h": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "launchpad.h": "c",
+        "sensorin.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": true
+}
